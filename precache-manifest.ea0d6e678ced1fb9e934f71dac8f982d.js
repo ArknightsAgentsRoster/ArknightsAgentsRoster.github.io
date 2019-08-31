@@ -1,22 +1,22 @@
 self.__precacheManifest = [
   {
-    "revision": "6f7c949813cc5b2948326829881eb9ef",
-    "url": "/icons/mipmap-xhdpi/ic_launcher.png"
+    "revision": "9f076bf5be3a771ad471315f82e70a39",
+    "url": "/icons/mipmap-ldpi/ic_launcher.png"
   },
   {
-    "revision": "540154b71d92ff1a812333814063f804",
-    "url": "/sw.js"
+    "revision": "3135a777e038037c2e24080049509f68",
+    "url": "/icon.jpg"
   },
   {
-    "revision": "ea863f60d14911b87b10e6ec90b49513",
-    "url": "/icons/mipmap-hdpi/ic_launcher.png"
+    "revision": "f362a4a4431aab3cb57899bb24088a8f",
+    "url": "/icons/playstore-icon.png"
   },
   {
     "revision": "07bd22eda1b5c5a9f5bd",
-    "url": "/css/chunk-vendors.80b51937.css"
+    "url": "/js/chunk-vendors.a0be1982.js"
   },
   {
-    "revision": "3574991fa0922467a593ca1d1ae1761c",
+    "revision": "d919eb93db4cfbe2aade21a9a123ce5a",
     "url": "/index.html"
   },
   {
@@ -24,16 +24,16 @@ self.__precacheManifest = [
     "url": "/icons/mipmap-mdpi/ic_launcher.png"
   },
   {
-    "revision": "9f076bf5be3a771ad471315f82e70a39",
-    "url": "/icons/mipmap-ldpi/ic_launcher.png"
+    "revision": "6f7c949813cc5b2948326829881eb9ef",
+    "url": "/icons/mipmap-xhdpi/ic_launcher.png"
   },
   {
     "revision": "217a478a6dcdd202181b",
     "url": "/js/app.e7fa093c.js"
   },
   {
-    "revision": "07bd22eda1b5c5a9f5bd",
-    "url": "/js/chunk-vendors.a0be1982.js"
+    "revision": "ea863f60d14911b87b10e6ec90b49513",
+    "url": "/icons/mipmap-hdpi/ic_launcher.png"
   },
   {
     "revision": "5b3f17847a4ec0abccfea64b7396d60a",
@@ -48,12 +48,12 @@ self.__precacheManifest = [
     "url": "/robots.txt"
   },
   {
-    "revision": "f362a4a4431aab3cb57899bb24088a8f",
-    "url": "/icons/playstore-icon.png"
+    "revision": "540154b71d92ff1a812333814063f804",
+    "url": "/sw.js"
   },
   {
-    "revision": "3135a777e038037c2e24080049509f68",
-    "url": "/icon.jpg"
+    "revision": "07bd22eda1b5c5a9f5bd",
+    "url": "/css/chunk-vendors.80b51937.css"
   },
   {
     "revision": "217a478a6dcdd202181b",
